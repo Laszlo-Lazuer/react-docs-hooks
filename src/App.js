@@ -8,9 +8,10 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <h1>React - Hooks demo's</h1>
         <h2>Demo - Counter</h2>
         <Counter />
-        <h2>Demo - Effect Counter</h2>
+        <h2>Demo - Effect Counter (Look at the page title)</h2>
         <EffectCounter />
       </div>
     );
