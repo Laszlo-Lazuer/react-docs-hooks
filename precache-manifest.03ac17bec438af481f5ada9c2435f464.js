@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "596f920b22f4ea7b31c4",
+    "revision": "8d151068618e4bd08229",
     "url": "/react-docs-hooks/static/css/main.e74fcef5.chunk.css"
   },
   {
-    "revision": "596f920b22f4ea7b31c4",
-    "url": "/react-docs-hooks/static/js/main.596f920b.chunk.js"
+    "revision": "8d151068618e4bd08229",
+    "url": "/react-docs-hooks/static/js/main.8d151068.chunk.js"
   },
   {
     "revision": "e015ec7119d7c1a2daf3",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-docs-hooks/static/js/2.79d608f0.chunk.js"
   },
   {
-    "revision": "76d76ad4112904e9b335135395e93981",
+    "revision": "4737be4d2b0396ee2bb3d1578c4b31ae",
     "url": "/react-docs-hooks/index.html"
   }
 ];
